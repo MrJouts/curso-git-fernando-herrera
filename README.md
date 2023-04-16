@@ -1,2 +1,5 @@
-# curso-git-fernando-herrera
+# Notas
 Este es el repositorio inicial de mi proyecto
+
+## Desde VSCode
+Esto fue añadido mediando VSCode
